@@ -15,7 +15,7 @@ Projeto de estudo que simula operações básicas de um banco, executado no term
 1. Instale o Python 3
 2. Baixe os arquivos deste repositório
 3. No terminal, dentro da pasta do projeto, rode:
-   python main.py
+  sistema-bancario-projeto.py
    
 ## Autor
 Gabriel Chaves Pereira
